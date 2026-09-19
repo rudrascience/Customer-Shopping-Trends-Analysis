@@ -36,6 +36,7 @@ This project analyzes retail transactions from 10000 Indian customers over 2year
 | purchase_date | date on which purchase has been made |
 | age | Customer age |
 | gender | Customer gender |
+| location | Purchasing Cities |
 | item_purchased | Product name |
 | category | Product category |
 | purchase_amount | Transaction value (USD) |
