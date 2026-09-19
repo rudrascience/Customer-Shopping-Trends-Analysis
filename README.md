@@ -49,7 +49,6 @@ This project analyzes retail transactions from 10000 Indian customers over 2year
 | season | Season of purchase |
 | review_rating | Customer rating (1-5) |
 | payment_method | Payment type |
-
 | previous_purchases | Count of prior purchases |
 | frequency_of_purchases | Purchase cadence (weekly, monthly, etc.) |
 
