@@ -1,2 +1,6 @@
 # Customer-Shopping-Trends-Analysis
-Here I have analysed a Kaggle dataset of Customer Shopping Behavior dataset and tried to get trends by analyzing the dataset to make better business decisions.
+An end-to -end data analytics project that analyzes retail transaction data using **Python** (cleaning the dataset & feature engineering), **MySQL** (structured business queries) and **PowerBI** (interactive dashboard visualization).
+
+
+## Project Overview
+In this project we have a dataset of 10000 Indian customers.
