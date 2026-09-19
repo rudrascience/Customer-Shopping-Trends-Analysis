@@ -33,18 +33,23 @@ This project analyzes retail transactions from 10000 Indian customers over 2year
 |---|---|
 | transactionr_id | Unique transaction identifier |
 | customer_id | Unique customer identifier |
-| purchase_date | date on which purchase has been made |
+| purchase_date | Purchasing dates |
 | age | Customer age |
 | gender | Customer gender |
-| location | Purchasing Cities |
-| item_purchased | Product name |
+| location | Customer Cities |
 | category | Product category |
-| purchase_amount | Transaction value (USD) |
-| location | Customer location |
+| item_purchased | Product name |
+| brand | Product brand |
+| color | Product Color |
+| size | Product size |
+| Quantity | Product quantity |
+| purchase_amount | Transaction value (INR) |
+| discount(%)| percentage of discount applied on the MRP |
+| festival\sale | standard day or a festival day |
 | season | Season of purchase |
 | review_rating | Customer rating (1-5) |
 | payment_method | Payment type |
-| discount_applied | Whether a discount was used (Yes/No) |
+
 | previous_purchases | Count of prior purchases |
 | frequency_of_purchases | Purchase cadence (weekly, monthly, etc.) |
 
