@@ -61,3 +61,19 @@ This project analyzes retail transactions from 10000 Indian customers over 2year
 
 
 ## Project Structure
+
+customer-shopping-analysis/
+├── data/
+│   ├── raw/                # Original, unmodified data
+│   └── processed/          # Cleaned data ready for analysis
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_segmentation.ipynb
+│   └── 04_insights.ipynb
+├── src/                    # Reusable scripts and helper functions
+├── reports/
+│   └── figures/            # Charts and visualizations
+├── requirements.txt
+└── README.md
+
