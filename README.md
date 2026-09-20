@@ -77,3 +77,5 @@ customer-shopping-analysis/
 ├── requirements.txt
 └── README.md
 
+## Core libraries 
+pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter
