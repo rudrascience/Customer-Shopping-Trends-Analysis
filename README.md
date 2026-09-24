@@ -82,9 +82,6 @@ customer-shopping-analysis
 ## Core libraries 
 pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter
 
-![Pandas Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png)
-
-![NumPy Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)
 
 ![Matplotlib](https://shields.io)
 
