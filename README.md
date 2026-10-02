@@ -82,7 +82,11 @@ customer-shopping-analysis
 ## Core libraries 
 pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
+![Jupyter Notebook](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)
+![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![Pandas](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png)
+![Sqlalchemy](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlalchemy.png)
+![MySQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png)
+
+
+
