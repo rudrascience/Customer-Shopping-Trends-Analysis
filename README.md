@@ -7,7 +7,7 @@ An end-to -end data analytics project that analyses customer purchasing patterns
 - [Business Questions](#business-questions)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Setup](#setup)
+- [Core Libraries](#Core-libraries )
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
