@@ -94,6 +94,9 @@ Python, Pandas, SQLalchemy, MySQL
 - Allen Solly, Beta and Bewakoof are the most sold brands.
 - Clothing items were mostly returned.
 
+<img width="1388" height="740" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/1f4ab348-86af-4007-af83-2fb0b13b8e25" />
+
+
 ## Recommendations
 1. **Boost Subscriptions** - Promote executive benefits for subscribers.
 2. **Customer Loyalty Program** - Reward repeated buyers to move them into the "Loyal" segment.
