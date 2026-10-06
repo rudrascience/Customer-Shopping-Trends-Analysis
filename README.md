@@ -5,7 +5,7 @@ An end-to -end data analytics project that analyses customer purchasing patterns
 (https://github.com/rudrascience/Customer-Shopping-Trends-Analysis.git)
 
 ## Link of the Kaggle Dataset
-![kaggle](https://www.kaggle.com/code/rudrajit55555/cleaning-customer-shopping-trends/input)
+[![Kaggle](https://shields.io)](https://www.kaggle.com/code/rudrajit55555/cleaning-customer-shopping-trends/input)
 
 ## 📌 Table of Contents
 - [Overview](#overview)
