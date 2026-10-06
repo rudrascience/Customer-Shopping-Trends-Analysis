@@ -1,6 +1,8 @@
 # Customer-Shopping-Trends-Analysis
 An end-to -end data analytics project that analyses customer purchasing patterns to uncover segments, trends, and drivers of revenue, with the goal of informing marketing, merchandising, and retention strategy using **Python** (cleaning the dataset & feature engineering), **MySQL** (structured business queries) and **PowerBI** (interactive dashboard visualization).
 
+# Clone the repository
+(https://github.com/rudrascience/Customer-Shopping-Trends-Analysis.git)
 
 ## 📌 Table of Contents
 - [Overview](#overview)
