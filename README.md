@@ -96,6 +96,8 @@ Python, Pandas, SQLalchemy, MySQL
 
 <img width="1388" height="740" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/1f4ab348-86af-4007-af83-2fb0b13b8e25" />
 
+<img width="1388" height="737" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/26936975-12f7-4826-8103-c280dc339c0c" />
+
 
 ## Recommendations
 1. **Boost Subscriptions** - Promote executive benefits for subscribers.
