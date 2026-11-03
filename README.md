@@ -32,7 +32,7 @@ This project analyzes retail transactions from 10000 Indian customers over 2year
 4.Identified business insights that could support customer segmentation and marketing decisions.
 
 ## ⚙️ Prerequisites
-* Python ( NumPy, Pandas, Matplotlib, Seaborn)
+* Python ( NumPy, Pandas)
 * MySQL Server 
 * Power BI Desktop
   
