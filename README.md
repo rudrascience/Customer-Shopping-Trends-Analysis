@@ -22,6 +22,7 @@ An end-to -end data analytics project that analyses customer purchasing patterns
 ## Project Overview
 
 This project analyzes retail transactions from 10000 Indian customers over 2years to understand how different customer groups shop, what they buy, and what drives repeat purchases. It covers data cleaning, exploratory analysis, customer segmentation, and visualization of results. Here I have
+
 1.Cleaned and analyzed a customer shopping behavior dataset using Python and Pandas.
 2.Conducted exploratory data analysis to investigate customer purchasing patterns and product trends.
 3.Created visualizations to communicate analytical findings.
